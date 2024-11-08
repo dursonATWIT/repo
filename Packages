@@ -1,0 +1,15 @@
+Package: com.whitetailani.Spartan
+Architecture: appletvos-arm64
+Version: 1.0.0-RC7-nightly-20240113105525
+Maintainer: WhitetailAni <joemama@thanos.lol>
+Depends: firmware (>=13.0)
+Filename: ./debians/com.whitetailani.spartan_1.0.0-RC7-nightly-20240113105525_appletvos-arm64.deb
+Size: 13628962
+MD5sum: 8cdb8d7ea303dca88153d0cb6d19c48a
+SHA1: e74775aa2f9a59c15dbba12dfe3d04f591770e34
+SHA256: 2d2f004f05f59cf02beb8f3f3c256ac0f28bb760a8a52f6be7b254d8a0dda395
+SHA512: be7807d9cd98dc2a2bd6a5c10088ba0d9c16b960e95c5bd12cbec3bd53a438bda1ef981842c8e0530009e73ea4179807446c357661e70646b4898e9edb2f3b65
+Description: The first tvOS file browser
+Name: Spartan
+Author: WhitetailAni <joemama@thanos.lol>
+

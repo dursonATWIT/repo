@@ -1,0 +1,15 @@
+.DS_Store						    com.whitetailani.Spartan
+Applications/.DS_Store					    com.whitetailani.Spartan
+Applications/Spartan.app/Assets.car			    com.whitetailani.Spartan
+Applications/Spartan.app/Info.plist			    com.whitetailani.Spartan
+Applications/Spartan.app/PkgInfo			    com.whitetailani.Spartan
+Applications/Spartan.app/SF Mono.otf			    com.whitetailani.Spartan
+Applications/Spartan.app/Sheikah.ttf			    com.whitetailani.Spartan
+Applications/Spartan.app/Spartan			    com.whitetailani.Spartan
+Applications/Spartan.app/_CodeSignature/CodeResources	    com.whitetailani.Spartan
+Applications/Spartan.app/embedded.mobileprovision	    com.whitetailani.Spartan
+Applications/Spartan.app/en.lproj/Localizable.strings	    com.whitetailani.Spartan
+bin/RootHelper						    com.whitetailani.Spartan
+usr/.DS_Store						    com.whitetailani.Spartan
+usr/lib/.DS_Store					    com.whitetailani.Spartan
+usr/lib/swift/libswift_Concurrency.dylib		    com.whitetailani.Spartan
