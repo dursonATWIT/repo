@@ -37,7 +37,7 @@ APT {
             Suite stable;
             Version 1.0;
             Codename "$codename";
-            Architectures "iphoneos-arm" "iphoneos-arm64";
+            Architectures "iphoneos-arm" "iphoneos-arm64" "appletvos-arm64";
             Components main;
             Description "$description";
         };
